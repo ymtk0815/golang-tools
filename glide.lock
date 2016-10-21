@@ -1,0 +1,6 @@
+hash: 551ad96f93046b7b5a12bc4097620841f26c5b0a16dbb0417b5b9cb4f00c88ac
+updated: 2016-10-21T22:36:07.975285941+09:00
+imports:
+- name: github.com/tcnksm/gcli
+  version: cef130401cdf9581a169727fec34fac01f7aeab1
+testImports: []
